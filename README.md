@@ -15,7 +15,6 @@ Profissional de suporte ao cliente apaixonado por tecnologia, lógica e criativi
 
 - Suporte ao cliente & relacionamento com usuários
 - Análise de perfil de usuários & feedbacks
-- Programação básica: `Python`, `HTML/CSS`, `Git/GitHub`
 - Ferramentas de marketing e programas de afiliação: Amazon, Shopee, Magalu
 
 ---
