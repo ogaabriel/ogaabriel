@@ -6,8 +6,8 @@ Profissional de suporte ao cliente apaixonado por tecnologia, lógica e criativi
 
 ## 💼 Sobre mim
 
-- **Função atual:** Suporte ao cliente com experiência em atendimento, resolução de problemas e onboarding.
-- **Slogan:** Combino atendimento de qualidade com desenvolvimento prático, unindo lógica, criatividade e foco no usuário.
+-  Suporte ao cliente com experiência em atendimento, resolução de problemas e onboarding.
+-  Combino atendimento de qualidade com desenvolvimento prático, unindo lógica, criatividade e foco no usuário.
 
 ---
 
